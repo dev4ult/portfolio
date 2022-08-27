@@ -240,7 +240,7 @@ section:not(#about) {
   flex-wrap: wrap;
   margin-top: 2.5rem;
   gap: 1.5rem;
-  max-width: 650px;
+  max-width: 680px;
 }
 
 .project-card {
