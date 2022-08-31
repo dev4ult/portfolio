@@ -49,13 +49,13 @@ main {
   flex-direction: column-reverse;
 }
 
-section {
+article {
   padding-block: 2rem;
   position: relative;
   z-index: 5;
 }
 
-section:not(#about) {
+article:not(#about) {
   display: flex;
   padding-block: 5rem;
   flex-direction: column;
@@ -471,7 +471,7 @@ section:not(#about) {
     max-width: 85%;
   }
 
-  section {
+  article {
     height: 100vh;
   }
 
